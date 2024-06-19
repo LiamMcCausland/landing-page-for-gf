@@ -14,7 +14,7 @@ body {
 	display: flex;
 	flex-direction: column;
 	min-height: 100vh;
-	background-image: url('img/photo-collage.png.jpg');
+	background-image: url('landing-page-for-gf/img/photo-collage.png.jpg');
 	background-size: cover; /* This will ensure the image covers the entire background */
 	background-repeat: no-repeat; /* This will prevent the image from repeating */
 	background-position: center; /* This will center the image */
